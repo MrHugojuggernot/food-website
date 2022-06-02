@@ -1,0 +1,70 @@
+#welcome-text{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Ebrima,serif;
+    outline: 9px dotted #000;
+    outline-offset: 44px;
+    margin-bottom: 20vh;
+}
+
+
+.body{
+    text-align: center;
+}
+
+.separatorTOP{
+    margin-top: 20vh;
+}
+
+#Self-Select{
+    padding: 30px;
+    margin-top: 25vh;
+    margin-bottom: 20vh;
+    font-size: 50px;
+    border: 5px solid #000;
+    border-radius: 100px;
+    font-family: Arial, serif;
+    background-color: black;
+    color:white;
+
+}
+
+.box-select{
+    margin-top: 20vh;
+    min-height: auto;
+    min-width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.box-select > div {
+    display: flex;
+    flex-basis: calc(50% - 40px);
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.mybox {
+     margin: 20px;
+
+}
+
+
+
+.mybox img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    flex: 0 1 auto;
+}
+
+.text-box{
+
+    text-align: center;
+    flex: 2;
+    font-family: Gabriola;
+    font-size: 60px;
+}

@@ -16,6 +16,9 @@
     margin-top: 20vh;
 }
 
+
+
+
 #Self-Select{
     padding: 30px;
     margin-top: 25vh;
@@ -68,3 +71,22 @@
     font-family: Gabriola;
     font-size: 60px;
 }
+
+#Github{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+
+#Contact{
+    padding-left: 800px;
+    display: inline;
+
+}
+
+#footer-border{
+    border: 5px solid #ffffff;
+
+}
+

@@ -17,14 +17,19 @@ body{
 
 
 }
-
+#footer-div{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 5vh;
+    align-items: center;
+    text-align: justify-all;
+}
 
 
 #top-border{
     border: 5px solid #B32424;
 
 }
-
 
 
 

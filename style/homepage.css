@@ -80,7 +80,9 @@
 }
 
 #Contact{
-    padding-left: 800px;
+    padding-top: 20px;
+    padding-right: 50px;
+    float: right;
     display: inline;
 
 }

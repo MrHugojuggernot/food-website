@@ -72,23 +72,3 @@
     font-size: 60px;
 }
 
-#Github{
-    width: 100px;
-    height: 100px;
-    vertical-align: middle;
-    padding-left: 10px;
-}
-
-#Contact{
-    padding-top: 20px;
-    padding-right: 50px;
-    float: right;
-    display: inline;
-
-}
-
-#footer-border{
-    border: 5px solid #ffffff;
-
-}
-
